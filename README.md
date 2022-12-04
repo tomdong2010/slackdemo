@@ -1,5 +1,7 @@
 # slackdemo
 
+## Firstly
 
+  * yarn 
 
-node tutorial.js
+  * node tutorial.js
